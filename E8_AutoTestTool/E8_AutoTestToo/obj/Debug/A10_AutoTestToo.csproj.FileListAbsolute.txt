@@ -1,0 +1,13 @@
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\bin\Debug\A10_AutoTestToo.exe.config
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\bin\Debug\A10_AutoTestToo.exe
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\bin\Debug\A10_AutoTestToo.pdb
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestToo.csprojResolveAssemblyReference.cache
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestToo.Properties.Resources.resources
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestToo.csproj.GenerateResource.Cache
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestToo.csproj.CoreCompileInputs.cache
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestToo.exe
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestToo.pdb
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\bin\Debug\CSkin.xml
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestToo.csproj.A10_AutoTestToo.exe.config
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestTool.LoginForm.resources
+E:\Temp\上位机\A10_AutoTestTool\A10_AutoTestTool\A10_AutoTestToo\obj\Debug\A10_AutoTestTool.MainForm.resources
